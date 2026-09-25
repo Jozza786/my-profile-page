@@ -8,16 +8,19 @@ A personal profile webpage created using HTML, CSS, and Bootstrap.
 
 
 
-- HTML
-- CSS
-- Bootstrap 5
 
 ## Project Structure
 
 my-profile-page/
+
 ├── index.html
+
 ├── README.md
+
 ├── css/
+
 │   └── style.css
+
 └── images/
+
     └── profile2.png
