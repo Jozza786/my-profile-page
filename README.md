@@ -12,15 +12,14 @@ A personal profile webpage created using HTML, CSS, and Bootstrap.
 ## Project Structure
 
 my-profile-page/
+__ index.html
 
-├── index.html
+__ README.md
 
-├── README.md
+__ css/
 
-├── css/
+|  __ style.css
 
-│   └── style.css
+__ images/
 
-└── images/
-
-    └── profile2.png
+  |  __ profile2.png
