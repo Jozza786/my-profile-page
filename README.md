@@ -4,7 +4,8 @@ A personal profile webpage created using HTML, CSS, and Bootstrap.
 
 ## Preview
 
-<img width="1008" height="671" alt="image" src="https://github.com/user-attachments/assets/45a0c8c6-5b28-42a2-a83f-575893404e12" />
+<img width="1032" height="649" alt="image" src="https://github.com/user-attachments/assets/e78dd99e-018e-45fa-85e1-ea1bd53bf9c5" />
+
 
 
 
@@ -22,4 +23,6 @@ __ css/
 
 __ images/
 
+   ___profile1.png
+   
   |  __ profile2.png
